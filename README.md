@@ -16,3 +16,11 @@ The goal of this repository is to provide a transparent and structured place for
 
 ## Participation Rules
 - Contributions should remain constructive, respectful, and relevant to the topic.
+
+## Additional Clarification About This **Placeholder** Repository
+
+GitHub Discussions require a repository to act as their backend, but the discussion categories, threads, and posts are **not stored as files** and do **not appear in the commit history**. This repository therefore serves purely as a **placeholder container** that enables organization‑wide Discussions.
+
+No source code lives here, and no discussion data is committed to the repository itself. All categories and conversations are stored internally by GitHub and are only visible through the **Discussions** tab.
+
+This repository exists solely to activate and host the ViteDelphiFoundation’s public discussion space.
