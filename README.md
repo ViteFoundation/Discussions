@@ -1,4 +1,4 @@
-# ViteDelphiFoundation Discussions
+# ViteFoundation Discussions
 
 This repository serves as the central communication hub for all organization‑wide discussions within the ViteDelphiFoundation. The Discussions section is publicly visible so that anyone can follow our technical conversations, planning, and ideas.
 
